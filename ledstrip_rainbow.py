@@ -85,7 +85,7 @@ maxDuty = 65535
 
 shortSleep=0.0005 #partymode
 shortSleep=0.005  #daymode
-shortSleep=0.05
+#shortSleep=0.05   #sleepmode
 longSleep=1
 
 sleepMainColor=shortSleep
